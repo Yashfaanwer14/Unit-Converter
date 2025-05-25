@@ -27,4 +27,4 @@ Result: 0.01 kilometers
 4. Add unit tests
 
 ## 🚀 Live Demo
-Try it out here: [Password Strength Meter]([https://unit-converter-by-yashfaanwer.streamlit.app/])
+Try it out here: [Password Strength Meter](https://unit-converter-by-yashfaanwer.streamlit.app/)
